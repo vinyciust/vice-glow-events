@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff3cac"/><stop offset="1" stop-color="#00d9ff"/></linearGradient></defs>
+<rect width="240" height="240" rx="120" fill="#24123D"/>
+<circle cx="120" cy="88" r="46" fill="url(#g)" opacity=".9"/>
+<path d="M45 218c8-52 34-81 75-81s67 29 75 81" fill="url(#g)" opacity=".9"/>
+<circle cx="120" cy="120" r="112" fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width="4"/>
+<text x="120" y="227" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff">OP</text>
+</svg>
